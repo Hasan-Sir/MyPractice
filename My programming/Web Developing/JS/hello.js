@@ -13,13 +13,13 @@
 // var goro = 'LOREM IPSUM DOLOR SIT AMET CONSECTETUR ADIPISICING ELIT. REPUDIANDAE DEBITIS DESERUNT DUCIMUS. EST BLANDITIIS ID EIUS NECESSITATIBUS EXPLICABO! COMMODI INVENTORE MAGNAM SINT LIBERO QUIBUSDAM, BEATAE FACERE, ET QUI REICIENDIS AB, MOLESTIAS TEMPORE EAQUE PLACEAT RATIONE EXCEPTURI REPREHENDERIT ACCUSANTIUM. SINT MOLESTIAS VOLUPTATES AUT REPUDIANDAE CONSEQUATUR ULLAM ELIGENDI SUNT HIC VOLUPTATEM NON?';
 // console.log(goro.toLocaleLowerCase());
 
-// var myFd = "Hasan, Jubayer, Ismail, Tahsin, Mazhar";    //split()
+// var myFd = "Hasan, Jubayer, Ismail, Tahsin, Mazhar";    //*split()
 // console.log(myFd.split("Hasan"));
 
-// var myFd = "Hasan Jubayer Ismail Tahsin Mazhar";    //split()
+// var myFd = "Hasan Jubayer Ismail Tahsin Mazhar";    //*split()
 // console.log(myFd.split("Hasan"));
 
-// var myFd = "Hasan, Jubayer, Ismail, Tahsin, Mazhar";    //indexOf()
+// var myFd = "Hasan, Jubayer, Ismail, Tahsin, Mazhar";    //*indexOf()
 // console.log(myFd.indexOf("M"));
 
 // var num1 = 30;            //+num
@@ -38,13 +38,13 @@
 // var mot = num1 + num2;
 // console.log(mot);
 
-// var num1 = '30.546514';    //parseInt
+// var num1 = '30.546514';    //*parseInt()
 // var num2 = 20;
 // num1 = parseInt(num1)
 // var mot = num1 + num2;
 // console.log(mot);
 
-// var num1 = '30.546514';    //parseFloat 30.654654
+// var num1 = '30.546514';    //*parseFloat() 30.654654
 // var num2 = 20;
 // num1 = parseFloat(num1)
 // var mot = num1 + num2;
@@ -55,7 +55,7 @@
 // num4 = "" + num4;
 // console.log(num4);
 
-// var num3 = 50;           //typeof ""+ (str)
+// var num3 = 50;           //*typeof ""+ (str)
 // var num4 =40;
 // num4 = "" + num4;
 // console.log(typeof num4);
@@ -105,40 +105,40 @@
 // var total = num6 % num5;
 // console.log(total);
 
-// var num1 = -30;           //Math.abs()
+// var num1 = -30;           //*Math.abs()
 // var sum = Math.abs(num1);
 // console.log(sum);
 
 
-// var totalMember = 10;    //Math.round()
+// var totalMember = 10;    //*Math.round()
 
 // var votar = 0.000001;
 // console.log(Math.round(votar));
 
 
-// var totalMember = 10;    //Math.ceil()
+// var totalMember = 10;    //*Math.ceil()
 
 // var votar = 0.000001;
 // console.log(Math.ceil(votar));
 
 
-// var totalMember = 10;    //Math.floor()
+// var totalMember = 10;    //*Math.floor()
 
 // var votar = 0.99999;
 // console.log(Math.floor(votar));
 
 
-// var lotary = Math.random();  //Math.random()
+// var lotary = Math.random();  //*Math.random()
 // console.log(lotary);
 
-// var lotary = Math.random() * 100;  //Math.random()
+// var lotary = Math.random() * 100;  //*Math.random()
 // console.log(lotary);
 
 
 
-//            //Assignment           //Hablu Programmer
+//#            //Assignment           //Hablu Programmer
 
 
-//          //Conditional Statements
+//#          //Conditional Statements
 
 
