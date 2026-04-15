@@ -73,7 +73,7 @@
 // console.log(typeof total);
 
 
-           //JavaScript Operators
+//            //JavaScript Operators
 
 // var num5 = 20;         // (+)
 // var num6 = 20;
@@ -136,9 +136,9 @@
 
 
 
-           //Assignment           //Hablu Programmer
+//            //Assignment           //Hablu Programmer
 
 
-         //Conditional Statements
+//          //Conditional Statements
 
 
